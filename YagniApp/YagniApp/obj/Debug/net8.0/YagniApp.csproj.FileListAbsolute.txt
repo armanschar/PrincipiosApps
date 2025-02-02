@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\bin\Debug\net8.0\YagniApp.exe
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\bin\Debug\net8.0\YagniApp.deps.json
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\bin\Debug\net8.0\YagniApp.runtimeconfig.json
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\bin\Debug\net8.0\YagniApp.dll
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\bin\Debug\net8.0\YagniApp.pdb
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\obj\Debug\net8.0\YagniApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\obj\Debug\net8.0\YagniApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\obj\Debug\net8.0\YagniApp.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\obj\Debug\net8.0\YagniApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\obj\Debug\net8.0\YagniApp.dll
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\obj\Debug\net8.0\refint\YagniApp.dll
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\obj\Debug\net8.0\YagniApp.pdb
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\obj\Debug\net8.0\YagniApp.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\YagniApp\YagniApp\obj\Debug\net8.0\ref\YagniApp.dll

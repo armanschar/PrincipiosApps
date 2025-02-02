@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\DryApp\DryApp\obj\Debug\net8.0\DryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\DryApp\DryApp\obj\Debug\net8.0\DryApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\DryApp\DryApp\obj\Debug\net8.0\DryApp.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\DryApp\DryApp\obj\Debug\net8.0\DryApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\DryApp\DryApp\bin\Debug\net8.0\DryApp.exe
+C:\Users\Usuario\source\repos\DryApp\DryApp\bin\Debug\net8.0\DryApp.deps.json
+C:\Users\Usuario\source\repos\DryApp\DryApp\bin\Debug\net8.0\DryApp.runtimeconfig.json
+C:\Users\Usuario\source\repos\DryApp\DryApp\bin\Debug\net8.0\DryApp.dll
+C:\Users\Usuario\source\repos\DryApp\DryApp\bin\Debug\net8.0\DryApp.pdb
+C:\Users\Usuario\source\repos\DryApp\DryApp\obj\Debug\net8.0\DryApp.dll
+C:\Users\Usuario\source\repos\DryApp\DryApp\obj\Debug\net8.0\refint\DryApp.dll
+C:\Users\Usuario\source\repos\DryApp\DryApp\obj\Debug\net8.0\DryApp.pdb
+C:\Users\Usuario\source\repos\DryApp\DryApp\obj\Debug\net8.0\DryApp.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\DryApp\DryApp\obj\Debug\net8.0\ref\DryApp.dll
