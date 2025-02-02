@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\KissApp\KissApp\obj\Debug\net8.0\KissApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\KissApp\KissApp\obj\Debug\net8.0\KissApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\KissApp\KissApp\obj\Debug\net8.0\KissApp.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\KissApp\KissApp\obj\Debug\net8.0\KissApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\KissApp\KissApp\bin\Debug\net8.0\KissApp.exe
+C:\Users\Usuario\source\repos\KissApp\KissApp\bin\Debug\net8.0\KissApp.deps.json
+C:\Users\Usuario\source\repos\KissApp\KissApp\bin\Debug\net8.0\KissApp.runtimeconfig.json
+C:\Users\Usuario\source\repos\KissApp\KissApp\bin\Debug\net8.0\KissApp.dll
+C:\Users\Usuario\source\repos\KissApp\KissApp\bin\Debug\net8.0\KissApp.pdb
+C:\Users\Usuario\source\repos\KissApp\KissApp\obj\Debug\net8.0\KissApp.dll
+C:\Users\Usuario\source\repos\KissApp\KissApp\obj\Debug\net8.0\refint\KissApp.dll
+C:\Users\Usuario\source\repos\KissApp\KissApp\obj\Debug\net8.0\KissApp.pdb
+C:\Users\Usuario\source\repos\KissApp\KissApp\obj\Debug\net8.0\KissApp.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\KissApp\KissApp\obj\Debug\net8.0\ref\KissApp.dll

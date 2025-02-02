@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\bin\Debug\net8.0\SolidApp.exe
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\bin\Debug\net8.0\SolidApp.deps.json
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\bin\Debug\net8.0\SolidApp.runtimeconfig.json
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\bin\Debug\net8.0\SolidApp.dll
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\bin\Debug\net8.0\SolidApp.pdb
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\obj\Debug\net8.0\SolidApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\obj\Debug\net8.0\SolidApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\obj\Debug\net8.0\SolidApp.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\obj\Debug\net8.0\SolidApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\obj\Debug\net8.0\SolidApp.dll
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\obj\Debug\net8.0\refint\SolidApp.dll
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\obj\Debug\net8.0\SolidApp.pdb
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\obj\Debug\net8.0\SolidApp.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\SolidApp\SolidApp\obj\Debug\net8.0\ref\SolidApp.dll
